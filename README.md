@@ -1,11 +1,17 @@
 # 👋 Hi, I'm Mohammad Ismatulla Khan
 
-🎯 **Data Analyst** | Python | SQL | Power BI | Tableau | Excel
+### 🎯 Data Analyst | Python | SQL | Power BI | Tableau | Excel
 
 📧 ismatullakhan18@gmail.com | 📍 Hyderabad, India
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohammadismatullakhan)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/ismatullakhan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mohammadismatullakhan)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/ismatullakhan)
+
+---
+
+## 👨‍💻 About Me
+
+Motivated **Data Analyst fresher** with a strong foundation in **SQL**, **Python**, **Excel**, and **Power BI**. Experienced in cleaning, analyzing, and visualizing data through academic projects and internships. Passionate about turning raw data into meaningful insights that drive business decisions.
 
 ---
 
@@ -13,49 +19,66 @@
 
 | Category | Tools |
 |---|---|
-| Programming | Python (Pandas, NumPy, Matplotlib, Seaborn) |
-| Querying | SQL (Joins, Subqueries, Window Functions) |
-| Visualization | Power BI, Tableau, Excel |
-| Databases | MySQL, PostgreSQL |
-| Other | Git, Jupyter Notebook, Google Sheets |
+| 🐍 Programming | Python (Pandas, NumPy, Matplotlib, Seaborn) |
+| 🗄️ Querying | SQL (Joins, Subqueries, Window Functions) |
+| 📊 Visualization | Power BI (DAX), Tableau, Advanced Excel |
+| 🗃️ Databases | MySQL, PostgreSQL |
+| 🔧 Other | Git, Jupyter Notebook, Google Sheets |
 
 ---
 
 ## 📁 Projects
 
-### 1. 🔍 Customer Churn Analysis
-> Analyzed 7,043 telecom customers to identify churn patterns using Python
+### 1. 🔍 [Customer Churn Analysis](https://github.com/ismatullakhan/Customer-Churn-Analysis)
+> **Tools:** Python, Pandas, Matplotlib, Seaborn
 
-- **Tools:** Python, Pandas, Matplotlib, Seaborn
+- Analyzed **7,043 telecom customers** to identify churn patterns
+- Generated **6 visualizations** to highlight churn-prone segments
 - **Key Finding:** 38% of churned users were on monthly contracts with less than 3-month tenure
-- **[View Project](https://github.com/ismatullakhan/Customer-Churn-Analysis)**
 
 ---
 
-### 2. 👥 Customer Segmentation Analysis
-> Segmented 10,000+ retail customers into 4 groups using RFM Analysis
+### 2. 👥 [Customer Segmentation Analysis](https://github.com/ismatullakhan/Customer-Segmentation-Analysis)
+> **Tools:** Python, Pandas, Matplotlib, Seaborn
 
-- **Tools:** Python, Pandas, Matplotlib, Seaborn
+- Performed **EDA** on **10,000+ retail customer records**
+- Segmented customers into **4 groups** using **RFM Analysis**
 - **Key Finding:** Top 20% customers drove 60% of revenue
-- **[View Project](https://github.com/ismatullakhan/Customer-Segmentation-Analysis)**
 
 ---
 
-### 3. 📊 Sales Dashboard for Regional Performance
-> Built interactive Power BI dashboard tracking KPIs across 5 regions
+### 3. 📊 Sales Dashboard for Regional Performance *(Coming Soon)*
+> **Tools:** SQL, Power BI
 
-- **Tools:** SQL, Power BI
+- Queried **25,000+ rows** across 5 regions
+- Built **10 dynamic KPIs** in Power BI
 - **Key Finding:** Detected 14% sales drop post-festival in South region
-- **Coming Soon**
 
 ---
 
-### 4. 🛒 Retail Sales Trend Analysis
-> Designed relational database and Tableau dashboard for sales trends
+### 4. 🛒 Retail Sales Trend Analysis *(Coming Soon)*
+> **Tools:** SQL, Tableau, Excel
 
-- **Tools:** SQL, Tableau, Excel
+- Designed relational database of **5+ tables** using MySQL
+- Built **interactive Tableau dashboard** with 5 visualizations
 - **Key Finding:** Identified Q3 as peak revenue quarter
-- **Coming Soon**
+
+---
+
+## 💼 Experience
+
+**Data Analyst Intern** — Vcube Software Solutions, Hyderabad
+*(Sep 2025 – Feb 2026)*
+- Cleaned **50,000+ rows** of data using Excel and SQL
+- Built interactive **Power BI dashboards** for KPI tracking
+- Improved **reporting accuracy by 20%**
+
+---
+
+## 🎓 Education
+
+**B.Tech Electronics and Communication Engineering**
+SRK Institute of Technology, Vijayawada | Graduated: 2025 | CGPA: 6.8/10
 
 ---
 
@@ -68,13 +91,4 @@
 
 ---
 
-## 💼 Experience
-
-**Data Analyst Intern** — Vcube Software Solutions, Hyderabad (Sep 2025 – Feb 2026)
-- Cleaned 50,000+ rows of data using Excel and SQL
-- Built interactive Power BI dashboards for KPI tracking
-- Improved reporting accuracy by 20%
-
----
-
-*Thanks for visiting my portfolio! Feel free to connect with me on LinkedIn* 😊
+*Thanks for visiting! Feel free to connect with me on LinkedIn* 😊
