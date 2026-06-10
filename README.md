@@ -22,7 +22,7 @@ Motivated **Data Analyst fresher** with a strong foundation in **SQL**, **Python
 | 🐍 Programming | Python (Pandas, NumPy, Matplotlib, Seaborn) |
 | 🗄️ Querying | SQL (Joins, Subqueries, Window Functions) |
 | 📊 Visualization | Power BI (DAX), Tableau, Advanced Excel |
-| 🗃️ Databases | MySQL, PostgreSQL |
+| 🗃️ Databases | MySQL, PostgreSQL, SQL Server |
 | 🔧 Other | Git, Jupyter Notebook, Google Sheets |
 
 ---
@@ -47,21 +47,21 @@ Motivated **Data Analyst fresher** with a strong foundation in **SQL**, **Python
 
 ---
 
-### 3. 📊 Sales Dashboard for Regional Performance *(Coming Soon)*
+### 3. 🛒 [Retail Sales Trend Analysis](https://github.com/ismatullakhan/Retail-Sales-Trend-Analysis)
+> **Tools:** SQL Server, Tableau, Excel | [📊 Live Dashboard](https://public.tableau.com/views/RevenuebyCategory_17810776766360/Dashboard1)
+
+- Designed relational database of **5+ tables** using SQL Server
+- Built **interactive Tableau dashboard** with 6 visualizations
+- **Key Finding:** Q4 was peak revenue quarter; Electronics top performing category
+
+---
+
+### 4. 📊 Sales Dashboard for Regional Performance *(Coming Soon)*
 > **Tools:** SQL, Power BI
 
 - Queried **25,000+ rows** across 5 regions
 - Built **10 dynamic KPIs** in Power BI
 - **Key Finding:** Detected 14% sales drop post-festival in South region
-
----
-
-### 4. 🛒 Retail Sales Trend Analysis *(Coming Soon)*
-> **Tools:** SQL, Tableau, Excel
-
-- Designed relational database of **5+ tables** using MySQL
-- Built **interactive Tableau dashboard** with 5 visualizations
-- **Key Finding:** Identified Q3 as peak revenue quarter
 
 ---
 
